@@ -1,9 +1,7 @@
 [project]
-name = "a1-test"
+name = "prime-find"
 version = "0.1.0"
-description = "test pyside6"
+description = "基于 6k±1 法则的高效质数判断程序"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = [
-  "pyside6"
-]
+dependencies = []
